@@ -1,0 +1,1 @@
+Egyszerű footer létrehozva a további munka érdekében. 
